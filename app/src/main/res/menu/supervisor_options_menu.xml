@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/addPatient" android:title="Add Client"></item>
+    <item android:id="@+id/deletePatient" android:title="Delete Client"></item>
+    <item android:id="@+id/logOutSupervisor" android:title="Log Out"></item>
+
+</menu>

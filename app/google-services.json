@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860119635613",
+    "firebase_url": "https://trackingapp-60609.firebaseio.com",
+    "project_id": "trackingapp-60609",
+    "storage_bucket": "trackingapp-60609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860119635613:android:787af9651a4b2f46322674",
+        "android_client_info": {
+          "package_name": "com.onurkaptan.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860119635613-tkktluksut24spkgop068uk7frscimvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgOqV4TzBjLOEP6HWxssNmZH73OwzHLao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860119635613-tkktluksut24spkgop068uk7frscimvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
